@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "8062693364",
+    "firebase_url": "https://cursochatonline.firebaseio.com",
+    "project_id": "cursochatonline",
+    "storage_bucket": "cursochatonline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8062693364:android:2aefbf5222a67007dad3a1",
+        "android_client_info": {
+          "package_name": "br.com.hojesites.chatonline2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8062693364-9p8t7flaa88ogbq0q1n6gmu1c7cqi121.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.hojesites.chatonline2",
+            "certificate_hash": "9fbd8bb7bf39ceb038ce92ced6cfea509a5c215f"
+          }
+        },
+        {
+          "client_id": "8062693364-q8j1m678naj24q9hb9fukrnp59f84cri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg35V20dwxsE3sA6Lm9qCblfJDeLnXKK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8062693364-q8j1m678naj24q9hb9fukrnp59f84cri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
